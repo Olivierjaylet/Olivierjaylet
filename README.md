@@ -6,17 +6,27 @@ I also enjoy teaching and helping others understand data science concepts.
 ### 📊 GitHub Stats
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olivierjaylet&show_icons=true&theme=radical)
 
-### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Olivierjaylet&theme=dracula)
-
 ### 📈 My GitHub Streak
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Olivierjaylet&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+### 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=Olivierjaylet&theme=dracula)
 
 ### Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olivierjaylet&layout=compact&theme=radical)
 
 ### Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Olivierjaylet&show_icons=true&theme=radical)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Olivierjaylet&theme=react-dark)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Olivierjaylet)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Olivierjaylet)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
+![Spotify](https://spotify-github-profile.vercel.app/api/now-playing)
+[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/Olivierjaylet)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Metrics](https://github.com/Olivierjaylet/metrics)
 
 
 <!--
