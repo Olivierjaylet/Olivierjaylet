@@ -3,19 +3,24 @@
 I'm a data scientist who loves working with machine learning and AI.
 
 ## 🎓 Education
+<table>
 
-- **Master's Degree** in **Econometrics, Statistics, and Big Data**  
-  ![University Name Logo](https://www.amse-aixmarseille.fr/sites/default/files/amse_logo.svg)  
-  **Aix-Marseille University**, [2024]
+   <tr>
+    <td><strong>Aix-Marseille University, Master's Degree in Econometrics, Statistics, and Big Data, 2024</strong></td>
+    <td>Tübingen University, Master's Degree in European Economics, 2024</td>
+    <td>Paris 1, Panthéon - Sorbonne, Bachelor's Degree in Economics, 2021</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://www.amse-aixmarseille.fr/sites/default/files/amse_logo.svg" alt="Aix-Marseille University" width="150" height="75"/></td>
+    <td align="center"><img src="https://www.iapb.org/wp-content/uploads/2020/09/The-Eberhard-Karls-University-of-Tubingen.png" alt="Tübingen University" width="150" height="65"/></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Logo_of_the_Pantheon-Sorbonne_University_in_Paris.png" alt="Paris 1" width="150" height="65"/></td>
+  </tr>
 
-- **Master's Degree** in **European Economics**  
-  ![Another University Logo](https://www.iapb.org/wp-content/uploads/2020/09/The-Eberhard-Karls-University-of-Tubingen.png)  
-  **Tübingen University**, [2024]
+</table>
 
-- **Bachelor's Degree** in **Economics**  
-  ![Another University Logo](https://upload.wikimedia.org/wikipedia/commons/9/99/Logo_of_the_Pantheon-Sorbonne_University_in_Paris.png)  
-  **Paris 1, Panthéon - Sorbonne**, [2021]
-
+### 📫 Contact Me
+- **LinkedIn**: [Olivier Jaylet](https://www.linkedin.com/in/olivier-jaylet-547027207/)
+- **Email**: [olivierjaylet18@gmail.com](mailto:olivierjaylet18@gmail.com)
 
 ### 📈 My GitHub Streak
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Olivierjaylet&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
@@ -31,6 +36,7 @@ I'm a data scientist who loves working with machine learning and AI.
 
 ### 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Olivierjaylet&theme=dracula)
+
 
 <!--
 **Olivierjaylet/Olivierjaylet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
