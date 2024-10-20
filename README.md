@@ -5,16 +5,19 @@ I'm a data scientist who loves working with machine learning and AI.
 ## 🎓 Education
 
 - **Master's Degree** in **Econometrics, Statistics, and Big Data**  
-  ![University Name Logo](https://www.amse-aixmarseille.fr/sites/default/files/amse_logo.svg)  
   **Aix-Marseille University**, [2024]
 
 - **Master's Degree** in **European Economics**  
-  ![Another University Logo](https://www.iapb.org/wp-content/uploads/2020/09/The-Eberhard-Karls-University-of-Tubingen.png)  
   **Tübingen University**, [2024]
 
 - **Bachelor's Degree** in **Economics**  
-  ![Another University Logo](https://upload.wikimedia.org/wikipedia/commons/9/99/Logo_of_the_Pantheon-Sorbonne_University_in_Paris.png)  
   **Paris 1, Panthéon - Sorbonne**, [2021]
+
+<p align="center">
+  <img src="https://www.amse-aixmarseille.fr/sites/default/files/amse_logo.svg" alt="Aix-Marseille University" width="100" height="50"/>
+  <img src="https://www.iapb.org/wp-content/uploads/2020/09/The-Eberhard-Karls-University-of-Tubingen.png" alt="Tübingen University" width="100" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Logo_of_the_Pantheon-Sorbonne_University_in_Paris.png" alt="Paris 1" width="100" height="50"/>
+</p>
 
 
 ### 📈 My GitHub Streak
