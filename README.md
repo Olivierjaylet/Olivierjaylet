@@ -29,7 +29,7 @@ I'm a data scientist who loves working with machine learning and AI.
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olivierjaylet&show_icons=true&theme=radical)
 
 ### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olivierjaylet&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olivierjaylet)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Olivierjaylet&show_icons=true&theme=radical)
