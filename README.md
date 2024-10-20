@@ -1,7 +1,21 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Olivier Jaylet 👋
 
 I'm a data scientist who loves working with machine learning and AI.
-I also enjoy teaching and helping others understand data science concepts.
+
+## 🎓 Education
+
+- **Master's Degree** in **Econometrics, Statistics, and Big Data**  
+  ![University Name Logo](https://www.amse-aixmarseille.fr/sites/default/files/amse_logo.svg)  
+  **Aix-Marseille University**, [2024]
+
+- **Master's Degree** in **European Economics**  
+  ![Another University Logo](https://www.iapb.org/wp-content/uploads/2020/09/The-Eberhard-Karls-University-of-Tubingen.png)  
+  **Tübingen University**, [2024]
+
+- **Bachelor's Degree** in **Economics**  
+  ![Another University Logo](https://upload.wikimedia.org/wikipedia/commons/9/99/Logo_of_the_Pantheon-Sorbonne_University_in_Paris.png)  
+  **Paris 1, Panthéon - Sorbonne**, [2021]
+
 
 ### 📈 My GitHub Streak
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Olivierjaylet&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
