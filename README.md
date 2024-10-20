@@ -4,17 +4,19 @@ I'm a data scientist who loves working with machine learning and AI.
 I also enjoy teaching and helping others understand data science concepts.
 
 ### 📊 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olivierjaylet&show_icons=true&theme=radical)
 
 ### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=dracula)
+![trophy](https://github-profile-trophy.vercel.app/?username=Olivierjaylet&theme=dracula)
 
 ### 📈 My GitHub Streak
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Olivierjaylet&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olivierjaylet&layout=compact&theme=radical)
 
+### Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Olivierjaylet&show_icons=true&theme=radical)
 
 
 <!--
