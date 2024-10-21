@@ -31,9 +31,6 @@ I'm a data scientist who loves working with machine learning and AI.
 ### 📊 GitHub Stats
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olivierjaylet&show_icons=true&theme=radical)
 
-### Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Olivierjaylet&show_icons=true&theme=radical)
-
 ### 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Olivierjaylet&theme=dracula)
 
