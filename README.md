@@ -1,16 +1,16 @@
 # Hi there, I'm Olivier Jaylet 👋
 
-
-I’m a Data Scientist with a background in econometrics, specializing in transforming raw data into interpretable & meaningful insights. 
-My expertise in Data Science enables confident, data-driven decisions, drawing from experience working with one of the largest airport groups to solve complex challenges.
+As a Data Scientist with a background in econometrics, I'm passionate about turning raw data into actionable insights. My expertise in machine learning, natural language processing, and data engineering has empowered me to solve complex challenges for one of the world's largest airport groups.
 
 ✨ Key Skills & Expertise:
 
-- 🎯 Machine Learning & Classification : Skilled in classification models, leveraging predicted probabilities for interpretable, accurate and insightful outcomes.
+- 🎯 Machine Learning & Classification : I specialize in building classification models that not only predict outcomes accurately but also provide clear, interpretable insights.
 
-- 🗣️ Natural Language Processing (NLP) : Expert in NLP techniques, including sentiment analysis and text-based feature engineering.
+- 🗣️ Natural Language Processing (NLP) : With a deep understanding of NLP, I can extract valuable information from text data, such as sentiment analysis, feature engineering etc.
 
-- 🔄 ETL & Data Scraping : Proficient in data extraction, transformation, loading (ETL), and scraping unstructured data for data-rich solutions.
+- 🔄 ETL & Data Scraping : I'm skilled in ETL processes and data scraping, transforming raw, unstructured data into clean, usable datasets.
+
+Let's collaborate to unlock the potential of your data and drive meaningful change.
 
 
 
