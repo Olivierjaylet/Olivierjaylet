@@ -40,7 +40,7 @@ Let's collaborate to unlock the potential of your data and drive meaningful chan
 - **LinkedIn**: [Olivier Jaylet](https://www.linkedin.com/in/olivier-jaylet-547027207/)
 - **Email**: [olivierjaylet18@gmail.com](mailto:olivierjaylet18@gmail.com)
 
-### Most Used Languages
+### 💻 Most Used Languages
 ![Top ](https://github-readme-stats.vercel.app/api/top-langs/?username=Olivierjaylet&size_weight=0.5&count_weight=0.5&theme=radical)
 
 ### 📈 My GitHub Streak
