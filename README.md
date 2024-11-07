@@ -36,34 +36,34 @@ Let's collaborate to unlock the potential of your data and drive meaningful chan
 
 </table>
 
-### 📫 Contact Me
+## 📫 Contact Me
 - **LinkedIn**: [Olivier Jaylet](https://www.linkedin.com/in/olivier-jaylet-547027207/)
 - **Email**: [olivierjaylet18@gmail.com](mailto:olivierjaylet18@gmail.com)
 
-### 💻 Most Used Languages
-![Top ](https://github-readme-stats.vercel.app/api/top-langs/?username=Olivierjaylet&size_weight=0.5&count_weight=0.5&theme=radical)
 
-### 📈 My GitHub Streak
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Olivierjaylet&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+## 📊 GitHub Stats:
+<table align="center">
+  <tr>
+    <td colspan="2" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Olivierjaylet&theme=nord_dark" alt="Olivierjaylet's Profile Details" width="700" height="150"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Olivierjaylet&theme=nord_dark" alt="Olivierjaylet's Repos per Language" width="300" height="150"></td>
+    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Olivierjaylet&theme=nord_dark" alt="Olivierjaylet's Most Commit Language" width="300" height="150"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Olivierjaylet&theme=nord_dark" alt="Olivierjaylet's Stats" width="300" height="150"></td>
+    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Olivierjaylet&theme=nord_dark" alt="Olivierjaylet's Productive Time" width="300" height="150"></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Olivierjaylet&theme=radical" alt="Olivierjaylet's GitHub Streak" width="600" height="150"><br>
+    </td>
+  </tr>
+</table>
 
-### 📊 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olivierjaylet&show_icons=true&theme=radical)
 
 ### 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Olivierjaylet&theme=dracula)
 
 
-<!--
-**Olivierjaylet/Olivierjaylet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
