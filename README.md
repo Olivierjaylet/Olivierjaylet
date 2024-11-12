@@ -56,7 +56,7 @@ Let's collaborate to unlock the potential of your data and drive meaningful chan
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Olivierjaylet&theme=nord_dark" alt="Olivierjaylet's GitHub Streak" width="600" height="150"><br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Olivierjaylet&theme=radical" alt="Olivierjaylet's GitHub Streak" width="600" height="150"><br>
     </td>
   </tr>
 </table>
