@@ -1,4 +1,4 @@
-# Hi there, I'm Olivier Jaylet 👋
+# Hi there, I'm Olivier Jaylet
 
 As a Data Scientist with a background in econometrics, I'm passionate about turning raw data into actionable insights. My expertise in machine learning, natural language processing, and data engineering has empowered me to solve complex challenges for one of the world's largest airport groups.
 
